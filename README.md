@@ -25,17 +25,15 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Vet-clinic-DB on Schema Diagram] <a name="about-project"></a>
+# 📖 [Clinic Records] <a name="about-project"></a>
 
-> Database Creation based on Schema Diagram is a project where a database has been created from the given schema Diagram.
+Database Creation based on Schema Diagram is a project where a database has been created from the given schema Diagram.
 
 **[curriculum-databases-projects-template]** is a is a project showing schema diagram for a clinic. The database has to be created making SQLcommands.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -62,8 +60,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 [Schema Diagram]
 
 [Creation of Database]
@@ -78,7 +74,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> This repository includes 1 file named schema_based_on_diagram.sql with SQL commands which will be used to create the required database.
+This repository includes 1 file named schema_based_on_diagram.sql with SQL commands which will be used to create the required database.
 
 ### Prerequisites
 
@@ -103,8 +99,6 @@ Query made in PgAdmin4 Query window.
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 ### 👤 **Sohail Batoor**
 
 - GitHub: [@batoorsohail](https://github.com/batoorsohail)
@@ -122,8 +116,6 @@ Query made in PgAdmin4 Query window.
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[SQL commands]**
 - [ ] **[Creation of Database from Schema diagram]**
@@ -144,9 +136,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project please give a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -154,17 +144,12 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
-
+I would like to thank Microverse.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[What is Schema Diagram ?]**
 
