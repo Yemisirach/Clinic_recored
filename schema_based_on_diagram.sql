@@ -50,3 +50,6 @@ CREATE TABLE invoice_items (
 CREATE index ON invoice_items (invoice_id);
 CREATE index ON invoice_items (treatment_id);
 CREATE index ON invoices (medical_histories_id);
+CREATE index ON medical_histories_treatments (treatment_id);
+CREATE index ON medical_histories_treatments (medical_histories_id);
+CREATE index ON medical_histories (patient_id);
