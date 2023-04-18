@@ -34,7 +34,6 @@ Database Creation based on Schema Diagram is a project where a database has been
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
 <details>
 <summary>Database</summary>
   <ul>
