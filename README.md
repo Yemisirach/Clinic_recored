@@ -61,22 +61,22 @@ Creation of Database
 
 This repository includes 1 file named schema_based_on_diagram.sql with SQL commands which will be used to create the required database.
 
-### Prerequisites
+### Prerequisites <a name="prerequisites"></a>
 
-In order to run this project you need: PgAdmin4 GUI
+In order to run this project you need a Chrome, Safari or Mozilla browser
+
+To get a local copy up and running, follow these steps.
 
 ### Setup
 
-Clone this repository to your desired folder.
+Clone this repository to your desired folder:
 
-### Install
+- cd my-folder
+- git clone https://github.com/Yemisirach/Clinic_recored.git
 
-Install this project with: PgAdmin4
+### Usage <a name="usage"></a>
 
-### Usage
-
-To run the project, execute the
-Query made in PgAdmin4 Query window.
+Run the `schema_based_on_diagram.sql` file codes
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
