@@ -1,4 +1,4 @@
-# Vet-clinic-DB
+# Clinic Record
 
 <!-- TABLE OF CONTENTS -->
 
@@ -29,7 +29,7 @@
 
 Database Creation based on Schema Diagram is a project where a database has been created from the given schema Diagram.
 
-**[curriculum-databases-projects-template]** is a is a project showing schema diagram for a clinic. The database has to be created making SQLcommands.
+**[Clinic Record]** is a is a project showing schema diagram for a clinic. The database has to be created making SQLcommands.
 
 ## 🛠 Built With <a name="built-with"></a>
 
