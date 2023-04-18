@@ -25,29 +25,15 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Clinic Records] <a name="about-project"></a>
+# 📖 Clinic Records <a name="about-project"></a>
 
 Database Creation based on Schema Diagram is a project where a database has been created from the given schema Diagram.
 
-**[Clinic Record]** is a is a project showing schema diagram for a clinic. The database has to be created making SQLcommands.
+**Clinic Record** is a is a project showing schema diagram for a clinic. The database has to be created making SQLcommands.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
 
 <details>
 <summary>Database</summary>
@@ -60,13 +46,13 @@ Database Creation based on Schema Diagram is a project where a database has been
 
 ### Key Features <a name="key-features"></a>
 
-[Schema Diagram]
+Schema Diagram
 
-[Creation of Database]
+Creation of Database
 
-- **[Idea about the Schema Diagram]**
-- **[How to understand different Tales with their key features]**
-- **[Execution of SQL commands to construct the required Database]**
+- **Idea about the Schema Diagram**
+- **How to understand different Tales with their key features**
+- **Execution of SQL commands to construct the required Database**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
